@@ -1,0 +1,31 @@
+{
+  "Name": "denoised Data",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "NORDIC",
+      "Version": ""
+    }
+  ]
+  "License": "",
+  "Authors": [
+    "Wei-Tang Chang",
+    "",
+    ""
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "",
+    "",
+    ""
+  ],
+  "EthicsApprovals": [""],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:"
+}
