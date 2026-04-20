@@ -1,0 +1,12 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma",
+  "MagneticFieldStrength": 3,
+  "PulseSequenceType": "GradientEcho",
+  "EchoTime": 0.039,
+  "TaskName": "vm",
+  "RepetitionTime": 4.0,
+  "SliceTiming": [],
+  "PhaseEncodingDirection": "j-",
+  "TotalReadoutTime": 0.04982
+}
